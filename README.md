@@ -1,8 +1,8 @@
-# Healthcare Topic.
+# Mental HealthCare
 In the present era, people have started building negative thoughts and emotions and developing stress, anxiety, and depression.  
 To assist, digital solutions offered by therapy apps such as Sanvello, Youper, Headspace, etc have offered quick conversations, personalized meditations, mood tracking, and health monitoring.
 ### Design a low cost, easy to use, appealing solution that helps people take care of their mental and emotional well-being and help them replace negative thinking patterns with positive ones.
-# Traffic
+# Traffic Congestion Solution
 Traffic congestion is the culprit behind improper traffic management, lawlessness on roads and frequent signal failures. While several methods to minimize congestion such as infrared sensors inductive loop detection, video data analysis, wireless sensor networks are in place, they often accompanied by demerits such as high installation and maintenance costs.
 As a solution, Mobility options offered by ride-hailing services such as Bounce, Uber, Yulu, QuickRide, etc have tried to combat the problem of congestion to a large extent and served road administration and consumers alike.
 ### Design a low cost, scalable solution for a connected service, that serves as a bridge between all the mobility options to ease congestion while allowing commuters to optimize their travel time and cost.
